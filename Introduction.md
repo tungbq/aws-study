@@ -18,3 +18,5 @@ Introduction Videos:
 - **CloudConfig**: https://youtu.be/MJDuAvNEv64
 
 - **AWS WAF**: https://youtu.be/nUI7G9UzyN8
+
+- **Kinesis**: https://youtu.be/MbEfiX4sMXc
