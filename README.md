@@ -1,6 +1,4 @@
-# aws-study
-## A place to summary and note AWS services
+# aws-study: A place to summary and note AWS services
 
-# Services introduciton video:
+## Services introduciton video: [Introduction videos link](Introduction.md)
 
-## WAF: https://youtu.be/nUI7G9UzyN8
