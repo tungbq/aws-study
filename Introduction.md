@@ -3,6 +3,7 @@ Introduction Videos:
 - **EC2**: https://www.youtube.com/watch?v=TsRBftzZsQo
 - **EBS**: https://youtu.be/77qLAl-lRpo
 - **EFS**: https://youtu.be/vAV4ASDnbN0
+- **Aurora**: https://youtu.be/FzxqIdIZ9wc
 - **RDS-Custom**: https://youtu.be/GvUaA9cygUk
 
 - **S3**: https://youtu.be/77lMCiiMilo
