@@ -13,4 +13,6 @@ Introduction Videos:
 - **Route53**: https://youtu.be/RGWgfhZByAI
 - **Cloudfont**: https://youtu.be/AT-nHW3_SVI
 
+- **Cloudwatch**: https://youtu.be/a4dhoTQCyRA
+
 - **AWS WAF**: https://youtu.be/nUI7G9UzyN8
