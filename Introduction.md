@@ -9,7 +9,8 @@ Introduction Videos:
 - **RDS**: https://youtu.be/eMzCI7S1P9M
 - **RDS-Custom**: https://youtu.be/GvUaA9cygUk
 
-- **S3**: https://youtu.be/77lMCiiMilo
+- **S3 (old)**: https://youtu.be/77lMCiiMilo
+- **S3**: https://youtu.be/_I14_sXHO8U
 - **Route53**: https://youtu.be/RGWgfhZByAI
 - **Cloudfont**: https://youtu.be/AT-nHW3_SVI
 
