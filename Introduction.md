@@ -1,7 +1,7 @@
 Introduction Videos:
-- **IAM**: https://www.youtube.com/watch?v=SXSqhTn2DuE
+- **IAM**: https://youtu.be/SXSqhTn2DuE
 
-- **EC2**: https://www.youtube.com/watch?v=TsRBftzZsQo
+- **EC2**: https://youtu.be/TsRBftzZsQo
 - **EBS**: https://youtu.be/77qLAl-lRpo
 - **EFS**: https://youtu.be/vAV4ASDnbN0
 
