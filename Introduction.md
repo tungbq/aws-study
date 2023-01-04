@@ -15,5 +15,6 @@ Introduction Videos:
 
 - **Cloudwatch**: https://youtu.be/a4dhoTQCyRA
 - **Cloudtrail**: https://youtu.be/mXQSnbc9jMs
+- **CloudConfig**: https://youtu.be/MJDuAvNEv64
 
 - **AWS WAF**: https://youtu.be/nUI7G9UzyN8
