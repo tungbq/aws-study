@@ -20,3 +20,4 @@ Introduction Videos:
 - **AWS WAF**: https://youtu.be/nUI7G9UzyN8
 
 - **Kinesis**: https://youtu.be/MbEfiX4sMXc
+- **Kinesis Firehose**: https://youtu.be/814aUb5n_Fk
