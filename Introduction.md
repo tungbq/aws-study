@@ -25,3 +25,5 @@ Introduction Videos:
 
 - **FSx OpenZFS**: https://youtu.be/hCcLcWPoTGA
 - **FSx Lustre**: https://youtu.be/4v08-CzjH1U
+
+- **DataSync**: https://youtu.be/jPRquig6Nrw
