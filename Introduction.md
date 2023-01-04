@@ -14,5 +14,6 @@ Introduction Videos:
 - **Cloudfont**: https://youtu.be/AT-nHW3_SVI
 
 - **Cloudwatch**: https://youtu.be/a4dhoTQCyRA
+- **Cloudtrail**: https://youtu.be/mXQSnbc9jMs
 
 - **AWS WAF**: https://youtu.be/nUI7G9UzyN8
