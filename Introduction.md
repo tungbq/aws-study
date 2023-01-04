@@ -21,3 +21,5 @@ Introduction Videos:
 
 - **Kinesis**: https://youtu.be/MbEfiX4sMXc
 - **Kinesis Firehose**: https://youtu.be/814aUb5n_Fk
+
+- **FSx OpenZFS**: https://youtu.be/hCcLcWPoTGA
