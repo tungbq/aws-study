@@ -28,3 +28,4 @@ Introduction Videos:
 - **FSx Lustre**: https://youtu.be/4v08-CzjH1U
 
 - **DataSync**: https://youtu.be/jPRquig6Nrw
+- **AWS GuardDuty**: https://youtu.be/ocZjGirQT9A
