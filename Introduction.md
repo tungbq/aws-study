@@ -22,6 +22,7 @@ Introduction Videos:
 
 - **Kinesis**: https://youtu.be/MbEfiX4sMXc
 - **Kinesis Firehose**: https://youtu.be/814aUb5n_Fk
+- **Kinesis Datastream**: https://youtu.be/qMR880QmFL8
 
 - **FSx OpenZFS**: https://youtu.be/hCcLcWPoTGA
 - **FSx Lustre**: https://youtu.be/4v08-CzjH1U
